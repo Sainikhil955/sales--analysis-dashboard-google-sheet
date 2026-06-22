@@ -23,9 +23,6 @@ North Region leads with ₹13.69 Lakh revenue, representing 27% of total sales.
 - Interactive Dashboard Design
 - Business Insights Communication
 
-## 📸 Dashboard Preview
-![Dashboard Screenshot](dashboard-screenshot.png)
-
 ## 🚀 How to Use
 1. Download `sales-analysis-dashboard-nikhil.xlsx`
 2. Open in Google Sheets or Excel
